@@ -1,0 +1,15 @@
+@import "utils/variables";
+
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.landing-container {
+	height: 100vh;
+	background: $perusvalkoinen;
+	background: linear-gradient(13deg, $perusvalkoinen 41%, $peruspurppura 49%, $perusvalkoinen 58%);
+}

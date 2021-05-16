@@ -1,0 +1,15 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.landing-container {
+  height: 100vh;
+  background: #f6f6f6;
+  background: linear-gradient(13deg, #f6f6f6 41%, #c25fb1 49%, #f6f6f6 58%);
+}
+/*# sourceMappingURL=landingstyle.css.map */
